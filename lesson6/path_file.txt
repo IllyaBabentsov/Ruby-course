@@ -1,0 +1,6 @@
+test1/test1/test2.rb
+
+test2/test1/test2.rb/
+test3/est1/test2.rb/
+test4/st1/st2.rb/strstr.rb
+
